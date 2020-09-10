@@ -1,0 +1,12 @@
+export const SHOW_ALERT = 'SHOW_ALERT';
+export const HIDE_ALERT = 'HIDE_ALERT';
+export const SET_USER = 'SET_USER';
+export const UNSET_USER = 'UNSET_USER';
+export const LOGGED_IN = 'LOGGED_IN';
+export const REGISTERED = 'REGISTERED';
+export const ERROR = 'ERROR';
+export const LOADING = 'LOADING';
+export const LOADN_WEBNR = 'LOADN_WEBNR';
+export const GET_WEBNR= 'GET_WEBNR';
+export const GET_WEBNRS= 'GET_WEBNRS';
+export const ERR_WEBNR= 'ERR_WEBNR';
