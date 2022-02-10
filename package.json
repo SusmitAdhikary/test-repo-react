@@ -12,7 +12,7 @@
     "local-storage": "^2.0.0",
     "lodash.isempty": "^4.4.0",
     "mdbreact": "^4.27.0",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "popper.js": "^1.16.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
